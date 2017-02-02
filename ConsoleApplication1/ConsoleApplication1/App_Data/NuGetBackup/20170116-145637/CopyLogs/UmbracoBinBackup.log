@@ -1,0 +1,36 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Mon Jan 16 14:56:37 2017
+
+   Source : C:\Sample2\ContentUrls\ConsoleApplication1\ConsoleApplication1\bin\
+     Dest : C:\Sample2\ContentUrls\ConsoleApplication1\ConsoleApplication1\App_Data\NuGetBackup\20170116-145637\bin\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   0	C:\Sample2\ContentUrls\ConsoleApplication1\ConsoleApplication1\bin\
+	  New Dir          4	C:\Sample2\ContentUrls\ConsoleApplication1\ConsoleApplication1\bin\Debug\
+	    New File  		     189	ConsoleApplication1.exe.config  0%  100%  
+	    New File  		   22696	ConsoleApplication1.vshost.exe  0%  100%  
+	    New File  		     189	ConsoleApplication1.vshost.exe.config  0%  100%  
+	    New File  		     490	ConsoleApplication1.vshost.exe.manifest  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         2         1         1         0         0         0
+   Files :         4         4         0         0         0         0
+   Bytes :    23.0 k    23.0 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             4712800 Bytes/sec.
+   Speed :             269.668 MegaBytes/min.
+
+   Ended : Mon Jan 16 14:56:37 2017
